@@ -9,7 +9,7 @@ a {
 }
 
 #header {
-	width: 1200px;
+	width: 1000px;
 	overflow: hidden;
 	margin: 20px auto;
 }
@@ -28,4 +28,9 @@ a {
 
 #menu ul li a {
 	color: #6c6c6c;
+}
+
+#wrapper {
+	width: 1265px;
+	margin: 20px auto;
 }
