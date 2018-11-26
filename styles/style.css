@@ -73,3 +73,59 @@ p {
 	line-height: 15px;
 	letter-spacing: 1px;
 }
+
+h1 {
+	margin-top: 20px;
+	margin-left: 50px;
+	font-family: Myriad Pro;
+	font-size: 42px;
+	color: #6f7173;
+}
+
+h2 {
+	font-family: Myriad Pro;
+	font-size: 26px;
+	color: #6f7173;
+}
+
+#bucket {
+	overflow: hidden;
+	margin-top: -15px;
+}
+
+#left-content {
+	float: left;
+	margin-left: 50px;
+}
+
+#left-content img {
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+#right-content {
+	float: right;
+	margin-top: 55px;
+}
+
+
+#right-content p {
+	font-family: Myriad Pro;
+	font-size: 15px;
+	color: #909090;
+	line-height: 36px;
+	width: 480px;
+}
+
+#footer {
+	height: 95px;
+	margin-top: 60px;
+}
+
+#footer p {
+	margin-top: 40px;
+	margin-left: 800px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #6f7173;
+}
